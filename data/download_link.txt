@@ -1,0 +1,7 @@
+1. To download the raw data at, remember to extract to this directory.
+	https://pan.baidu.com/s/1-LDKfhwgwzNmcttDPfONGg
+2. If you do not have matlab_rosbag tool, you can download the data (has been extracted by matlab_rosbag tool and saved as .mat) at
+	https://pan.baidu.com/s/1g_efVjWxa5ls_5TtT2GN0g
+
+
+
