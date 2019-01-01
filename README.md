@@ -3,7 +3,7 @@ This repository provides the source code of my ECCV 2018 paper --- Semi-Dense Re
 
 ## Getting Started
 
-This introduction explains how to run the **matlab + cpp** code of Joey's ECCV 2018 paper.
+This introduction explains how to configure/run the **matlab + cpp** code.
 
 ### Prerequisites
 
@@ -59,3 +59,4 @@ Entry 3: Evaluate the objective function at an event coordinate for each hypothe
 ## Authors
 
 * **Yi (Joey) Zhou**
+* **cavatinajoey@gmail.com**
